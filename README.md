@@ -1,2 +1,2 @@
-# jasonppaquette.github.io
+# paquettejp.github.io
 Website
